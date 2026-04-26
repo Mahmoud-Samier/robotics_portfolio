@@ -13,7 +13,7 @@ This repository tracks my progress through 55 topics across 5 phases.
 
 | Phase | Description | Hours | Status | Branch |
 | :--- | :--- | :--- | :--- | :--- |
-| **0** | **Basics & Portfolio Building** | **504h** | **🔄 In Progress** | [Explore Phase 0](https://www.google.com/search?q=./Phase-0/) |
+| **0** | **Basics & Portfolio Building** | **504h** | **🔄 In Progress** | [Explore Phase 0](https://github.com/Mahmoud-Samier/robotics_portfolio/tree/main/Phase-0) |
 | 1 | Soft Foundations & C++ | 775h | ⏳ Upcoming | - |
 | 2 | Robot Building & First Gigs | 937h | ⏳ Upcoming | - |
 | 3 | Professionalism & Remote Contracts | 913h | ⏳ Upcoming | - |
