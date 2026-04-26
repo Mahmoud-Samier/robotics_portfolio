@@ -6,9 +6,9 @@ I am tracking my progress through the following topics:
 
 [x] 01 - Programming Basics: (CS50 or equivalent)
 
-[ ] 02 - Python Basics: Variables, Data Types, and I/O.
+[x] 02 - Python Basics: Variables, Data Types, and I/O.
 
-[ ] 03 - Control Flow: If conditions, Loops, and Logic.
+[x] 03 - Control Flow: If conditions, Loops, and Logic.
 
 [ ] 04 - Data Structures: Lists, Dictionaries, Tuples, and Sets.
 
