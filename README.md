@@ -1,6 +1,6 @@
 # 🤖 Mechatronics & Robotics Journey - Phase 0
 
-Hi there! I am Mahmoud Samir, a Mechatronics Engineering student. I am currently following the Mechatronics & Robotics Career Roadmap v8.0 to master Robotics Software, Simulation, Navigation, and Control Systems Engineering.
+Hi there! I am Mahmoud Samier, a Mechatronics Engineering student. I am currently following the Mechatronics & Robotics Career Roadmap v8.0 to master Robotics Software, Simulation, Navigation, and Control Systems Engineering.
 
 ## 🎯 Current Milestone: Phase 0 (Foundations & Portfolio)
 
