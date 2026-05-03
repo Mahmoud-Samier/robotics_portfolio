@@ -1,53 +1,31 @@
-🏗️ Phase 0: Foundations & Robotics Portfolio
-This folder contains my progress and code implementations for Phase 0 of the Robotics Roadmap. The goal of this phase is to build a solid foundation in programming, tools, and robotics basics.
+# 🏗️ Phase 0: Foundations & First Portfolio
 
-📈 Learning Progress (14 Topics)
-I am tracking my progress through the following topics:
+This folder contains my progress and code implementations for Phase 0 of the Robotics Roadmap. The goal of this phase is to build a solid foundation in Python, Tools, ROS2 basics, and Gazebo simulation.
 
-[x] 01 - Programming Basics: (CS50 or equivalent)
+## 📈 Learning Progress (14 Topics)
+I am tracking my progress through the following 479-hour curriculum:
 
-[x] 02 - Python Basics: Variables, Data Types, and I/O.
+- [X] 01 - Programming Basics: Algorithm, Flowcharts, Pseudocode (8h)
+- [X] 02 - Python Basics: Variables, Data Types, and I/O (15h)
+- [X] 03 - Python Control Flow: If conditions, and Loops (17h)
+- [X] 04 - Python Data Structures: Lists, Tuples, Dictionaries (18h)
+- [ ] 05 - Python Functions: def, *args, and lambda (17h)
+- [ ] 06 - Python Files & Errors: Handling CSV, JSON, and Exceptions (18h)
+- [ ] 07 - Python OOP: Classes, Inheritance, and Encapsulation (28h)
+- [ ] 08 - Essential Libraries: NumPy, Pandas, Matplotlib (35h)
+- [ ] 09 - Git & GitHub: Version control and professional documentation (14h)
+- [ ] 10 - Linux & Terminal: Terminal mastery and Bash scripting (32h)
+- [ ] 11 - Docker: Containerization for robotics environments (26h)
+- [ ] 12 - PID Applied Intro: Open/Closed loop, Kp/Ki/Kd Tuning (30h)
+- [ ] 13 - ROS2 Basics (Python): Nodes, Topics, Services, Actions (75h)
+- [ ] 14 - Gazebo Basics: SDF vs URDF, World Creation, Plugins (46h)
 
-[x] 03 - Control Flow: If conditions, Loops, and Logic.
+## 🎯 Milestone Project: Project Zero (100h)
+Mobile Robot in Gazebo: Building a fully functional Differential Drive Robot (URDF) equipped with LiDAR and Camera, controlled via a PID Controller, and fully Dockerized.
 
-[ ] 04 - Data Structures: Lists, Dictionaries, Tuples, and Sets.
+## 📁 Directory Structure
+- /Topic-01-Programming-Basics: Flowcharts and pseudo-code exercises.
+- /Topic-02-Python: Basic variables and I/O scripts.
 
-[ ] 05 - Functions & Modules: Code modularity and reusability.
-
-[ ] 06 - File I/O & Exceptions: Handling data and error management.
-
-[ ] 07 - Object-Oriented Programming (OOP): Classes and Objects for Robotics.
-
-[ ] 08 - Essential Libraries: Numpy and Matplotlib basics.
-
-[ ] 09 - Git & GitHub: Version control and professional documentation.
-
-[ ] 10 - Linux Basics: Terminal mastery and Bash scripting.
-
-[ ] 11 - Docker Basics: Containerization for robotics environments.
-
-[ ] 12 - Mathematical Foundations: Essential math for robot kinematics.
-
-[ ] 13 - ROS2 Foundations: Introduction to Nodes, Topics, and Messages.
-
-[ ] 14 - Gazebo Simulation: Building simple environments and robot models.
-
-🎯 Milestone Project: Project Zero
-Goal: Build a Mobile Robot in Gazebo, controlled via ROS2 with a PID controller.
-
-[ ] Robot Model (URDF)
-
-[ ] Gazebo Environment Setup
-
-[ ] PID Controller Implementation
-
-[ ] Final Simulation Video
-
-📁 Directory Structure
-/Topic-02-Python-Basics: Exercises and scripts for Python fundamentals.
-
-/Topic-07-OOP: Robot class designs and OOP implementations.
-
-/Topic-13-ROS2: First ROS2 nodes and communication tests.
-
-Status: 🔄 In Progress | Estimated Time: 504 Hours
+---
+*Status: 🔄 In Progress | Total Phase Time: 479 Hours (82h Theory, 397h Practical)*
