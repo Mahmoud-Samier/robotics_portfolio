@@ -10,7 +10,7 @@ I am building a strong programming and technical foundation, now including ROS2 
 * Focus: Python, Linux, Docker, ROS2 Basics, Gazebo, and Portfolio building.
 * Current Status: 🏗️ In Progress.
 
-## 📊 Full Roadmap Overview (v8.0)
+## 📊 Full Roadmap Overview 
 
 This repository tracks my progress through 53 topics and 5 major projects across 5 phases.
 
