@@ -6,7 +6,7 @@ Hi there! I am Mahmoud Samier, a Mechatronics Engineering student. I am currentl
 
 I am building a strong programming and technical foundation, now including ROS2 and Gazebo basics, before moving into advanced control theory and robotics research.
 
-* Phase Duration: 479 Hours.
+* Phase Duration: 489 Hours.
 * Focus: Python, Linux, Docker, ROS2 Basics, Gazebo, and Portfolio building.
 * Current Status: 🏗️ In Progress.
 
@@ -16,7 +16,7 @@ This repository tracks my progress through 53 topics and 5 major projects across
 
 | Phase | Description | Hours | Status | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 0 | Basics & First Portfolio | 479h | 🔄 In Progress | [Explore Phase 0](./Phase-0/) |
+| 0 | Basics & First Portfolio | 489h | 🔄 In Progress | [Explore Phase 0](./Phase-0/) |
 | 1 | Mathematical Foundations & C++ | 791h | ⏳ Upcoming | - |
 | 2 | Robotics & Simulation | 920h | ⏳ Upcoming | - |
 | 3 | Professionalism & Advanced Niches | 747h | ⏳ Upcoming | - |
@@ -33,4 +33,4 @@ This repository tracks my progress through 53 topics and 5 major projects across
 > "I do not move to the next topic until I can pass the transition checklist and write the code independently without looking at examples."
 
 ---
-*Total Roadmap Commitment: 3,619 Hours of theoretical and practical work.*
+*Total Roadmap Commitment: 3,629 Hours of theoretical and practical work.*
