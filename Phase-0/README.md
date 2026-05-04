@@ -11,7 +11,7 @@ I am tracking my progress through the following 479-hour curriculum:
 - [X] 04 - Python Data Structures: Lists, Tuples, Dictionaries (18h)
 - [ ] 05 - Python Functions: def, *args, and lambda (17h)
 - [ ] 06 - Python Files & Errors: Handling CSV, JSON, and Exceptions (18h)
-- [ ] 07 - Python OOP: Classes, Inheritance, and Encapsulation (28h)
+- [ ] 07 - Python OOP: Classes, Inheritance, and Encapsulation (38h)
 - [ ] 08 - Essential Libraries: NumPy, Pandas, Matplotlib (35h)
 - [ ] 09 - Git & GitHub: Version control and professional documentation (14h)
 - [ ] 10 - Linux & Terminal: Terminal mastery and Bash scripting (32h)
@@ -28,4 +28,4 @@ Mobile Robot in Gazebo: Building a fully functional Differential Drive Robot (UR
 - /Topic-02-Python: Basic variables and I/O scripts.
 
 ---
-*Status: 🔄 In Progress | Total Phase Time: 479 Hours (82h Theory, 397h Practical)*
+*Status: 🔄 In Progress | Total Phase Time: 489 Hours (82h Theory, 397h Practical)*
